@@ -1,10 +1,11 @@
 # Awesome Token Economics 🦄 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 > A curated list of awesome resources about token economics and engineering 🦄
 
-General
-======
 
-
+Papers
+=======
+- [Token Ecosystem Creation: A strategic process to architect and engineer viable token economies](https://outlierventures.io/wp-content/uploads/2018/10/Token-Ecosystem-Creation-Outlier-Ventures-PDF.pdf)
+- [Community Token Economies (CTE): Creating sustainable digital token economies within open source communities](https://gallery.mailchimp.com/65ae955d98e06dbd6fc737bf7/files/02455450-8a66-4004-965a-cf2f19fed237/Community_Token_Economy_Whitepaper_1.0.1_2017_09_01.pdf)
 
 Use cases
 =======

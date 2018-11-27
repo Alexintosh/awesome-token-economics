@@ -20,3 +20,6 @@ Blogs
 =======
 
 - [Token Simulation Model](https://medium.com/token-simulation-model)
+
+
+[awesome-cryptoeconomics list](https://github.com/jpantunes/awesome-cryptoeconomics)

@@ -21,5 +21,7 @@ Blogs
 
 - [Token Simulation Model](https://medium.com/token-simulation-model)
 
-
+Lists
+=======
+[Tokenengineering.net](http://tokenengineering.net/reading-resources)
 [awesome-cryptoeconomics list](https://github.com/jpantunes/awesome-cryptoeconomics)

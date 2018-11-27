@@ -23,5 +23,5 @@ Blogs
 
 Lists
 =======
-[Tokenengineering.net](http://tokenengineering.net/reading-resources)
-[awesome-cryptoeconomics list](https://github.com/jpantunes/awesome-cryptoeconomics)
+- [Tokenengineering.net](http://tokenengineering.net/reading-resources)
+- [awesome-cryptoeconomics list](https://github.com/jpantunes/awesome-cryptoeconomics)
